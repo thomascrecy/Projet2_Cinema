@@ -408,39 +408,39 @@ with tab3:
     st.divider()
 
      ##Affichage_Top_10 des acteurs par genre
-    #st.markdown(f"<div style='margin-bottom: {vertical_space}px'></div>", unsafe_allow_html=True)
-    #st.write("<h2 style='font-size: 25px;'> Top 🔟 des acteurs par genre selectionné (1950-2020)</h2>", unsafe_allow_html=True)
-    #st.markdown(f"<div style='margin-bottom: {vertical_space}px'></div>", unsafe_allow_html=True)
+    st.markdown(f"<div style='margin-bottom: {vertical_space}px'></div>", unsafe_allow_html=True)
+    st.write("<h2 style='font-size: 25px;'> Top 🔟 des acteurs par genre selectionné (1950-2020)</h2>", unsafe_allow_html=True)
+    st.markdown(f"<div style='margin-bottom: {vertical_space}px'></div>", unsafe_allow_html=True)
 
     ## Filtrer sur 'actor' and 'actress'
-    #filtre_actors = jointure_4.loc[(jointure_4['category']=='actor')|(jointure_4['category']=='actress')]
+    filtre_actors = jointure_4.loc[(jointure_4['category']=='actor')|(jointure_4['category']=='actress')]
 
     # Options de filtre disponibles (à titre d'exemple)
-    #genres_options = ['Comedy', 'Action', 'Drama','Documentary','Horror', 'Thriller']
+    genres_options = ['Comedy', 'Action', 'Drama','Documentary','Horror', 'Thriller']
 
     # Sélection du genre à filtrer
-    #selected_genre = st.selectbox('Sélectionnez un genre', genres_options)
+    selected_genre = st.selectbox('Sélectionnez un genre', genres_options)
 
     #Filtrer le dataframe par genre sélectionné
-    #filtered_df = filtre_actors[filtre_actors['genres'].str.contains(selected_genre)]
+    filtered_df = filtre_actors[filtre_actors['genres'].str.contains(selected_genre)]
 
     #Pivoter les données par décennie et acteur
-    #test_2 = pd.pivot_table(filtered_df, values='tconst', index='primaryName', columns='decennie', aggfunc='count')
-    #test_2['Total'] = test_2.sum(axis=1)
-    #test_2 = test_2.sort_values(by='Total', ascending=False).reset_index()
+    test_2 = pd.pivot_table(filtered_df, values='tconst', index='primaryName', columns='decennie', aggfunc='count')
+    test_2['Total'] = test_2.sum(axis=1)
+    test_2 = test_2.sort_values(by='Total', ascending=False).reset_index()
 
-    #top_10 = test_2.head(10)
+    top_10 = test_2.head(10)
 
  
-    #fig = px.bar(top_10, x='primaryName', y='Total', labels={'primaryName': 'Acteurs', 'Total': 'Nombre de films'},
-                #title=f'Top 10 des acteurs de {selected_genre} avec le plus grand nombre de films total', color_discrete_sequence=colors1)
+    fig = px.bar(top_10, x='primaryName', y='Total', labels={'primaryName': 'Acteurs', 'Total': 'Nombre de films'},
+                title=f'Top 10 des acteurs de {selected_genre} avec le plus grand nombre de films total', color_discrete_sequence=colors1)
 
-    #fig.update_layout(xaxis_tickangle=-45)
+    fig.update_layout(xaxis_tickangle=-45)
 
     #Afficher le plot avec Streamlit
-    #st.plotly_chart(fig)
+    st.plotly_chart(fig)
    
-    #st.divider()
+    st.divider()
 
     ##Affichage_Top_10 des reals par genre
     st.markdown(f"<div style='margin-bottom: {vertical_space}px'></div>", unsafe_allow_html=True)
