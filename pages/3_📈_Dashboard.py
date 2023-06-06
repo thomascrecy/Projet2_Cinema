@@ -421,7 +421,7 @@ with tab3:
     # Sélection du genre à filtrer
     selected_genre = st.selectbox('Sélectionnez un genre', genres_options)
 
-    Filtrer le dataframe par genre sélectionné
+    #Filtrer le dataframe par genre sélectionné
     filtered_df = filtre_actors[filtre_actors['genres'].str.contains(selected_genre)]
 
     #Pivoter les données par décennie et acteur
