@@ -1,0 +1,101 @@
+index,tconst,titleType,primaryTitle,originalTitle,isAdult,startYear,runtimeMinutes,genres,ordering,region,language,types,attributes,isOriginalTitle,decennie,split_genres,averageRating,numVotes
+19690,tt0111161,movie,The Shawshank Redemption,The Shawshank Redemption,0,1994,142,Drama,13,FR,\N,imdbDisplay,\N,0,de 1990 à 2000,['Drama'],9.3,2725109.0
+9452,tt0068646,movie,The Godfather,The Godfather,0,1972,175,"Crime,Drama",21,FR,\N,imdbDisplay,\N,0,de 1970 à 1980,"['Crime', 'Drama']",9.2,1894380.0
+32909,tt0468569,movie,The Dark Knight,The Dark Knight,0,2008,152,"Action,Crime,Drama",47,FR,\N,imdbDisplay,\N,0,de 2000 à 2010,"['Action', 'Crime', 'Drama']",9.0,2697966.0
+24186,tt0167260,movie,The Lord of the Rings: The Return of the King,The Lord of the Rings: The Return of the King,0,2003,201,"Action,Adventure,Drama",31,FR,\N,imdbDisplay,\N,0,de 2000 à 2010,"['Action', 'Adventure', 'Drama']",9.0,1874736.0
+19110,tt0108052,movie,Schindler's List,Schindler's List,0,1993,195,"Biography,Drama,History",6,FR,\N,imdbDisplay,\N,0,de 1990 à 2000,"['Biography', 'Drama', 'History']",9.0,1376210.0
+10395,tt0071562,movie,The Godfather Part II,The Godfather Part II,0,1974,202,"Crime,Drama",61,FR,\N,imdbDisplay,\N,0,de 1970 à 1980,"['Crime', 'Drama']",9.0,1291980.0
+2784,tt0050083,movie,12 Angry Men,12 Angry Men,0,1957,96,"Crime,Drama",35,FR,\N,\N,alternative spelling,0,de 1950 à 1960,"['Crime', 'Drama']",9.0,805867.0
+19637,tt0110912,movie,Pulp Fiction,Pulp Fiction,0,1994,154,"Crime,Drama",17,FR,\N,imdbDisplay,\N,0,de 1990 à 2000,"['Crime', 'Drama']",8.9,2093361.0
+41433,tt1375666,movie,Inception,Inception,0,2010,148,"Action,Adventure,Sci-Fi",20,FR,\N,imdbDisplay,\N,0,de 2010 à 2020,"['Action', 'Adventure', 'Sci-Fi']",8.8,2394485.0
+22500,tt0137523,movie,Fight Club,Fight Club,0,1999,139,Drama,37,FR,\N,imdbDisplay,\N,0,de 1990 à 2000,['Drama'],8.8,2168245.0
+19421,tt0109830,movie,Forrest Gump,Forrest Gump,0,1994,142,"Drama,Romance",23,FR,\N,imdbDisplay,\N,0,de 1990 à 2000,"['Drama', 'Romance']",8.8,2119454.0
+21586,tt0120737,movie,The Lord of the Rings: The Fellowship of the Ring,The Lord of the Rings: The Fellowship of the Ring,0,2001,178,"Action,Adventure,Drama",54,FR,\N,imdbDisplay,\N,0,de 2000 à 2010,"['Action', 'Adventure', 'Drama']",8.8,1903865.0
+24187,tt0167261,movie,The Lord of the Rings: The Two Towers,The Lord of the Rings: The Two Towers,0,2002,179,"Action,Adventure,Drama",7,FR,\N,imdbDisplay,\N,0,de 2000 à 2010,"['Action', 'Adventure', 'Drama']",8.8,1692533.0
+6568,tt0060196,movie,"The Good, the Bad and the Ugly","Il buono, il brutto, il cattivo",0,1966,161,"Adventure,Western",42,FR,\N,\N,reissue title,0,de 1960 à 1970,"['Adventure', 'Western']",8.8,772583.0
+43256,tt15097216,movie,Jai Bhim,Jai Bhim,0,2021,164,"Crime,Drama,Mystery",9,FR,\N,imdbDisplay,\N,0,de 2020 à 2030,"['Crime', 'Drama', 'Mystery']",8.8,205537.0
+62652,tt9263550,movie,Rocketry: The Nambi Effect,Rocketry: The Nambi Effect,0,2022,157,"Biography,Drama",19,FR,\N,imdbDisplay,\N,0,de 2020 à 2030,"['Biography', 'Drama']",8.8,52612.0
+22283,tt0133093,movie,The Matrix,The Matrix,0,1999,136,"Action,Sci-Fi",54,FR,\N,imdbDisplay,\N,0,de 1990 à 2000,"['Action', 'Sci-Fi']",8.7,1944020.0
+12839,tt0080684,movie,Star Wars: Episode V - The Empire Strikes Back,The Empire Strikes Back,0,1980,124,"Action,Adventure,Fantasy",22,FR,\N,\N,new title,0,de 1980 à 1990,"['Action', 'Adventure', 'Fantasy']",8.7,1311891.0
+17468,tt0099685,movie,Goodfellas,GoodFellas,0,1990,145,"Biography,Crime,Drama",13,FR,\N,imdbDisplay,\N,0,de 1990 à 2000,"['Biography', 'Crime', 'Drama']",8.7,1182463.0
+10905,tt0073486,movie,One Flew Over the Cuckoo's Nest,One Flew Over the Cuckoo's Nest,0,1975,133,Drama,7,FR,\N,\N,\N,0,de 1970 à 1980,['Drama'],8.7,1022376.0
+36480,tt10811166,movie,The Kashmir Files,The Kashmir Files,0,2022,170,Drama,20,FR,\N,imdbDisplay,\N,0,de 2020 à 2030,['Drama'],8.7,563807.0
+35261,tt10189514,movie,Soorarai Pottru,Soorarai Pottru,0,2020,153,"Action,Drama",24,FR,\N,imdbDisplay,\N,0,de 2020 à 2030,"['Action', 'Drama']",8.7,118953.0
+34037,tt0816692,movie,Interstellar,Interstellar,0,2014,169,"Adventure,Drama,Sci-Fi",40,FR,\N,imdbDisplay,\N,0,de 2010 à 2020,"['Adventure', 'Drama', 'Sci-Fi']",8.6,1886992.0
+20198,tt0114369,movie,Se7en,Se7en,0,1995,127,"Crime,Drama,Mystery",64,FR,\N,imdbDisplay,\N,0,de 1990 à 2000,"['Crime', 'Drama', 'Mystery']",8.6,1683756.0
+18152,tt0102926,movie,The Silence of the Lambs,The Silence of the Lambs,0,1991,118,"Crime,Drama,Thriller",15,FR,\N,imdbDisplay,\N,0,de 1990 à 2000,"['Crime', 'Drama', 'Thriller']",8.6,1457089.0
+21636,tt0120815,movie,Saving Private Ryan,Saving Private Ryan,0,1998,169,"Drama,War",67,FR,\N,\N,\N,0,de 1990 à 2000,"['Drama', 'War']",8.6,1414030.0
+11815,tt0076759,movie,Star Wars: Episode IV - A New Hope,Star Wars,0,1977,121,"Action,Adventure,Fantasy",37,FR,\N,\N,reissue title,0,de 1970 à 1980,"['Action', 'Adventure', 'Fantasy']",8.6,1384282.0
+21563,tt0120689,movie,The Green Mile,The Green Mile,0,1999,189,"Crime,Drama,Fantasy",47,FR,\N,imdbDisplay,\N,0,de 1990 à 2000,"['Crime', 'Drama', 'Fantasy']",8.6,1324817.0
+18176,tt0103064,movie,Terminator 2: Judgment Day,Terminator 2: Judgment Day,0,1991,137,"Action,Sci-Fi",22,FR,\N,imdbDisplay,\N,0,de 1990 à 2000,"['Action', 'Sci-Fi']",8.6,1116000.0
+27303,tt0245429,movie,Spirited Away,Sen to Chihiro no kamikakushi,0,2001,125,"Adventure,Animation,Family",50,FR,\N,imdbDisplay,\N,0,de 2000 à 2010,"['Adventure', 'Animation', 'Family']",8.6,781692.0
+29486,tt0317248,movie,City of God,Cidade de Deus,0,2002,130,"Crime,Drama",5,FR,\N,\N,\N,0,de 2000 à 2010,"['Crime', 'Drama']",8.6,766696.0
+20993,tt0118799,movie,Life Is Beautiful,La vita è bella,0,1997,116,"Comedy,Drama,Romance",4,FR,\N,\N,\N,0,de 1990 à 2000,"['Comedy', 'Drama', 'Romance']",8.6,706681.0
+1900,tt0047478,movie,Seven Samurai,Shichinin no samurai,0,1954,207,"Action,Drama",26,FR,\N,\N,alternative spelling,0,de 1950 à 1960,"['Action', 'Drama']",8.6,350842.0
+5039,tt0056058,movie,Harakiri,Seppuku,0,1962,133,"Action,Drama,Mystery",47,FR,\N,imdbDisplay,\N,0,de 1960 à 1970,"['Action', 'Drama', 'Mystery']",8.6,60042.0
+47783,tt20850406,movie,Sita Ramam,Sita Ramam,0,2022,163,"Action,Drama,Mystery",14,FR,\N,imdbDisplay,\N,0,de 2020 à 2030,"['Action', 'Drama', 'Mystery']",8.6,58340.0
+24390,tt0172495,movie,Gladiator,Gladiator,0,2000,155,"Action,Adventure,Drama",40,FR,\N,\N,\N,0,de 2000 à 2010,"['Action', 'Adventure', 'Drama']",8.5,1524834.0
+33236,tt0482571,movie,The Prestige,The Prestige,0,2006,130,"Drama,Mystery,Sci-Fi",61,FR,\N,imdbDisplay,\N,0,de 2000 à 2010,"['Drama', 'Mystery', 'Sci-Fi']",8.5,1355115.0
+31552,tt0407887,movie,The Departed,The Departed,0,2006,151,"Crime,Drama,Thriller",42,FR,\N,imdbDisplay,\N,0,de 2000 à 2010,"['Crime', 'Drama', 'Thriller']",8.5,1346820.0
+14787,tt0088763,movie,Back to the Future,Back to the Future,0,1985,116,"Adventure,Comedy,Sci-Fi",74,FR,\N,imdbDisplay,\N,0,de 1980 à 1990,"['Adventure', 'Comedy', 'Sci-Fi']",8.5,1228169.0
+19535,tt0110413,movie,Léon: The Professional,Léon,0,1994,110,"Action,Crime,Drama",49,FR,\N,imdbDisplay,\N,0,de 1990 à 2000,"['Action', 'Crime', 'Drama']",8.5,1180742.0
+21512,tt0120586,movie,American History X,American History X,0,1998,119,"Crime,Drama",42,FR,\N,imdbDisplay,\N,0,de 1990 à 2000,"['Crime', 'Drama']",8.5,1137264.0
+20279,tt0114814,movie,The Usual Suspects,The Usual Suspects,0,1995,106,"Crime,Drama,Mystery",11,FR,\N,imdbDisplay,\N,0,de 1990 à 2000,"['Crime', 'Drama', 'Mystery']",8.5,1098923.0
+19519,tt0110357,movie,The Lion King,The Lion King,0,1994,88,"Adventure,Animation,Drama",55,FR,fr,\N,3-D version,0,de 1990 à 2000,"['Adventure', 'Animation', 'Drama']",8.5,1076914.0
+12322,tt0078748,movie,Alien,Alien,0,1979,117,"Horror,Sci-Fi",2,FR,\N,alternative,\N,0,de 1970 à 1980,"['Horror', 'Sci-Fi']",8.5,897088.0
+50434,tt2582802,movie,Whiplash,Whiplash,0,2014,106,"Drama,Music",28,FR,\N,imdbDisplay,\N,0,de 2010 à 2020,"['Drama', 'Music']",8.5,892529.0
+45016,tt1675434,movie,The Intouchables,Intouchables,0,2011,112,"Biography,Comedy,Drama",55,FR,\N,imdbDisplay,\N,0,de 2010 à 2020,"['Biography', 'Comedy', 'Drama']",8.5,875074.0
+27539,tt0253474,movie,The Pianist,The Pianist,0,2002,150,"Biography,Drama,Music",34,FR,\N,imdbDisplay,\N,0,de 2000 à 2010,"['Biography', 'Drama', 'Music']",8.5,848579.0
+58836,tt6751668,movie,Parasite,Gisaengchung,0,2019,132,"Drama,Thriller",31,FR,\N,imdbDisplay,\N,0,de 2010 à 2020,"['Drama', 'Thriller']",8.5,840189.0
+4368,tt0054215,movie,Psycho,Psycho,0,1960,109,"Horror,Mystery,Thriller",28,FR,\N,imdbDisplay,\N,0,de 1960 à 1970,"['Horror', 'Mystery', 'Thriller']",8.5,682674.0
+12332,tt0078788,movie,Apocalypse Now,Apocalypse Now,0,1979,147,"Drama,Mystery,War",14,FR,\N,imdbDisplay,\N,0,de 1970 à 1980,"['Drama', 'Mystery', 'War']",8.5,678140.0
+1862,tt0047396,movie,Rear Window,Rear Window,0,1954,112,"Mystery,Thriller",67,FR,\N,imdbDisplay,\N,0,de 1950 à 1960,"['Mystery', 'Thriller']",8.5,499143.0
+7909,tt0064116,movie,Once Upon a Time in the West,C'era una volta il West,0,1968,165,Western,31,FR,\N,imdbDisplay,\N,0,de 1960 à 1970,['Western'],8.5,335138.0
+16465,tt0095327,movie,Grave of the Fireflies,Hotaru no haka,0,1988,89,"Animation,Drama,War",38,FR,\N,\N,\N,0,de 1980 à 1990,"['Animation', 'Drama', 'War']",8.5,284483.0
+16569,tt0095765,movie,Cinema Paradiso,Nuovo Cinema Paradiso,0,1988,155,"Drama,Romance",26,FR,\N,tv,\N,0,de 1980 à 1990,"['Drama', 'Romance']",8.5,266376.0
+42160,tt1424432,movie,Senna,Senna,0,2010,106,"Biography,Documentary,Sport",27,FR,\N,imdbDisplay,\N,0,de 2010 à 2020,"['Biography', 'Documentary', 'Sport']",8.5,72377.0
+41048,tt1345836,movie,The Dark Knight Rises,The Dark Knight Rises,0,2012,164,"Action,Drama,Thriller",47,FR,\N,imdbDisplay,\N,0,de 2010 à 2020,"['Action', 'Drama', 'Thriller']",8.4,1730355.0
+46422,tt1853728,movie,Django Unchained,Django Unchained,0,2012,165,"Drama,Western",55,FR,\N,imdbDisplay,\N,0,de 2010 à 2020,"['Drama', 'Western']",8.4,1586278.0
+59690,tt7286456,movie,Joker,Joker,0,2019,122,"Crime,Drama,Thriller",44,FR,\N,imdbDisplay,\N,0,de 2010 à 2020,"['Crime', 'Drama', 'Thriller']",8.4,1335084.0
+26094,tt0209144,movie,Memento,Memento,0,2000,113,"Mystery,Thriller",14,FR,\N,\N,\N,0,de 2000 à 2010,"['Mystery', 'Thriller']",8.4,1256167.0
+24297,tt0169547,movie,American Beauty,American Beauty,0,1999,122,Drama,34,FR,\N,imdbDisplay,\N,0,de 1990 à 2000,['Drama'],8.4,1168309.0
+54044,tt4154796,movie,Avengers: Endgame,Avengers: Endgame,0,2019,181,"Action,Adventure,Drama",22,FR,\N,imdbDisplay,\N,0,de 2010 à 2020,"['Action', 'Adventure', 'Drama']",8.4,1165104.0
+34587,tt0910970,movie,WALL·E,WALL·E,0,2008,98,"Adventure,Animation,Family",44,FR,\N,imdbDisplay,\N,0,de 2000 à 2010,"['Adventure', 'Animation', 'Family']",8.4,1134599.0
+54043,tt4154756,movie,Avengers: Infinity War,Avengers: Infinity War,0,2018,149,"Action,Adventure,Sci-Fi",9,FR,\N,imdbDisplay,\N,0,de 2010 à 2020,"['Action', 'Adventure', 'Sci-Fi']",8.4,1109845.0
+19861,tt0112573,movie,Braveheart,Braveheart,0,1995,178,"Biography,Drama,History",30,FR,\N,\N,\N,0,de 1990 à 2000,"['Biography', 'Drama', 'History']",8.4,1050675.0
+13053,tt0081505,movie,The Shining,The Shining,0,1980,146,"Drama,Horror",18,FR,\N,imdbDisplay,\N,0,de 1980 à 1990,"['Drama', 'Horror']",8.4,1041044.0
+13435,tt0082971,movie,Raiders of the Lost Ark,Raiders of the Lost Ark,0,1981,115,"Action,Adventure",51,FR,\N,alternative,\N,0,de 1980 à 1990,"['Action', 'Adventure']",8.4,980449.0
+15233,tt0090605,movie,Aliens,Aliens,0,1986,137,"Action,Adventure,Sci-Fi",102,FR,\N,imdbDisplay,\N,0,de 1980 à 1990,"['Action', 'Adventure', 'Sci-Fi']",8.4,728275.0
+30508,tt0364569,movie,Oldboy,Oldeuboi,0,2003,120,"Action,Drama,Mystery",27,FR,\N,\N,\N,0,de 2000 à 2010,"['Action', 'Drama', 'Mystery']",8.4,591349.0
+54966,tt4633694,movie,Spider-Man: Into the Spider-Verse,Spider-Man: Into the Spider-Verse,0,2018,117,"Action,Adventure,Animation",36,FR,\N,imdbDisplay,\N,0,de 2010 à 2020,"['Action', 'Adventure', 'Animation']",8.4,552273.0
+49710,tt2380307,movie,Coco,Coco,0,2017,105,"Adventure,Animation,Comedy",16,FR,\N,imdbDisplay,\N,0,de 2010 à 2020,"['Adventure', 'Animation', 'Comedy']",8.4,526566.0
+5411,tt0057012,movie,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,0,1964,95,"Comedy,War",40,FR,\N,imdbDisplay,\N,0,de 1960 à 1970,"['Comedy', 'War']",8.4,497766.0
+38332,tt1187043,movie,3 Idiots,3 Idiots,0,2009,170,"Comedy,Drama",2,FR,\N,imdbDisplay,\N,0,de 2000 à 2010,"['Comedy', 'Drama']",8.4,408149.0
+14325,tt0086879,movie,Amadeus,Amadeus,0,1984,160,"Biography,Drama,Music",11,FR,\N,\N,director's cut,0,de 1980 à 1990,"['Biography', 'Drama', 'Music']",8.4,407595.0
+31489,tt0405094,movie,The Lives of Others,Das Leben der Anderen,0,2006,137,"Drama,Mystery,Thriller",21,FR,\N,imdbDisplay,\N,0,de 2000 à 2010,"['Drama', 'Mystery', 'Thriller']",8.4,394780.0
+56280,tt5311514,movie,Your Name.,Kimi no na wa.,0,2016,106,"Animation,Drama,Fantasy",22,FR,\N,imdbDisplay,\N,0,de 2010 à 2020,"['Animation', 'Drama', 'Fantasy']",8.4,280409.0
+13174,tt0082096,movie,Das Boot,Das Boot,0,1981,149,"Drama,War",57,FR,\N,imdbDisplay,\N,0,de 1980 à 1990,"['Drama', 'War']",8.4,254364.0
+360,tt0043014,movie,Sunset Blvd.,Sunset Blvd.,0,1950,110,"Drama,Film-Noir",52,FR,\N,imdbDisplay,\N,0,de 1950 à 1960,"['Drama', 'Film-Noir']",8.4,225561.0
+3087,tt0050825,movie,Paths of Glory,Paths of Glory,0,1957,88,"Drama,War",54,FR,\N,\N,\N,0,de 1950 à 1960,"['Drama', 'War']",8.4,201067.0
+60933,tt8110330,movie,Dil Bechara,Dil Bechara,0,2020,101,"Comedy,Drama,Romance",11,FR,\N,imdbDisplay,\N,0,de 2020 à 2030,"['Comedy', 'Drama', 'Romance']",8.4,132263.0
+3222,tt0051201,movie,Witness for the Prosecution,Witness for the Prosecution,0,1957,116,"Crime,Drama,Mystery",38,FR,\N,\N,\N,0,de 1950 à 1960,"['Crime', 'Drama', 'Mystery']",8.4,128472.0
+61178,tt8267604,movie,Capernaum,Capharnaüm,0,2018,126,Drama,58,FR,\N,imdbDisplay,\N,0,de 2010 à 2020,['Drama'],8.4,93736.0
+15421,tt0091251,movie,Come and See,Idi i smotri,0,1985,142,"Drama,Thriller,War",19,FR,\N,dvd,\N,0,de 1980 à 1990,"['Drama', 'Thriller', 'War']",8.4,84261.0
+40466,tt1313104,movie,The Cove,The Cove,0,2009,92,"Biography,Crime,Documentary",2,FR,\N,imdbDisplay,\N,0,de 2000 à 2010,"['Biography', 'Crime', 'Documentary']",8.4,50249.0
+30424,tt0361748,movie,Inglourious Basterds,Inglourious Basterds,0,2009,153,"Adventure,Drama,War",35,FR,\N,imdbDisplay,\N,0,de 2000 à 2010,"['Adventure', 'Drama', 'War']",8.3,1479390.0
+14173,tt0086190,movie,Star Wars: Episode VI - Return of the Jedi,Star Wars: Episode VI - Return of the Jedi,0,1983,131,"Action,Adventure,Fantasy",49,FR,\N,imdbDisplay,\N,0,de 1980 à 1990,"['Action', 'Adventure', 'Fantasy']",8.3,1069772.0
+35892,tt1049413,movie,Up,Up,0,2009,96,"Adventure,Animation,Comedy",54,FR,\N,\N,\N,0,de 2000 à 2010,"['Adventure', 'Animation', 'Comedy']",8.3,1061539.0
+18566,tt0105236,movie,Reservoir Dogs,Reservoir Dogs,0,1992,99,"Crime,Thriller",40,FR,\N,\N,\N,0,de 1990 à 2000,"['Crime', 'Thriller']",8.3,1036095.0
+29930,tt0338013,movie,Eternal Sunshine of the Spotless Mind,Eternal Sunshine of the Spotless Mind,0,2004,108,"Drama,Romance,Sci-Fi",47,FR,\N,imdbDisplay,\N,0,de 2000 à 2010,"['Drama', 'Romance', 'Sci-Fi']",8.3,1024886.0
+20258,tt0114709,movie,Toy Story,Toy Story,0,1995,81,"Adventure,Animation,Comedy",74,FR,\N,\N,\N,0,de 1990 à 2000,"['Adventure', 'Animation', 'Comedy']",8.3,1010632.0
+21110,tt0119217,movie,Good Will Hunting,Good Will Hunting,0,1997,126,"Drama,Romance",3,FR,\N,\N,\N,0,de 1990 à 2000,"['Drama', 'Romance']",8.3,994430.0
+14192,tt0086250,movie,Scarface,Scarface,0,1983,170,"Crime,Drama",30,FR,\N,\N,\N,0,de 1980 à 1990,"['Crime', 'Drama']",8.3,858490.0
+24674,tt0180093,movie,Requiem for a Dream,Requiem for a Dream,0,2000,102,Drama,37,FR,\N,\N,\N,0,de 2000 à 2010,['Drama'],8.3,856422.0
+32225,tt0435761,movie,Toy Story 3,Toy Story 3,0,2010,103,"Adventure,Animation,Comedy",38,FR,\N,imdbDisplay,\N,0,de 2010 à 2020,"['Adventure', 'Animation', 'Comedy']",8.3,849481.0
+8852,tt0066921,movie,A Clockwork Orange,A Clockwork Orange,0,1971,136,"Crime,Sci-Fi",10,FR,\N,imdbDisplay,\N,0,de 1970 à 1980,"['Crime', 'Sci-Fi']",8.3,842692.0
+26230,tt0211915,movie,Amélie,Le fabuleux destin d'Amélie Poulain,0,2001,122,"Comedy,Romance",34,FR,\N,imdbDisplay,\N,0,de 2000 à 2010,"['Comedy', 'Romance']",8.3,766230.0
+15889,tt0093058,movie,Full Metal Jacket,Full Metal Jacket,0,1987,116,"Drama,War",31,FR,\N,imdbDisplay,\N,0,de 1980 à 1990,"['Drama', 'War']",8.3,753828.0
+7368,tt0062622,movie,2001: A Space Odyssey,2001: A Space Odyssey,0,1968,149,"Adventure,Sci-Fi",70,FR,\N,imdbDisplay,\N,0,de 1960 à 1970,"['Adventure', 'Sci-Fi']",8.3,680644.0
+20013,tt0113277,movie,Heat,Heat,0,1995,170,"Action,Crime,Drama",57,FR,\N,imdbDisplay,\N,0,de 1990 à 2000,"['Action', 'Crime', 'Drama']",8.3,668458.0
+45597,tt1745960,movie,Top Gun: Maverick,Top Gun: Maverick,0,2022,130,"Action,Drama",36,FR,\N,imdbDisplay,\N,0,de 2020 à 2030,"['Action', 'Drama']",8.3,565207.0
+3655,tt0052357,movie,Vertigo,Vertigo,0,1958,128,"Mystery,Romance,Thriller",28,FR,\N,imdbDisplay,\N,0,de 1950 à 1960,"['Mystery', 'Romance', 'Thriller']",8.3,408699.0
