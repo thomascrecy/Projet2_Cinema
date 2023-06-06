@@ -421,26 +421,26 @@ with tab3:
     # Sélection du genre à filtrer
     selected_genre = st.selectbox('Sélectionnez un genre', genres_options)
 
-    # Filtrer le dataframe par genre sélectionné
-    #filtered_df = filtre_actors[filtre_actors['genres'].str.contains(selected_genre)]
+    Filtrer le dataframe par genre sélectionné
+    filtered_df = filtre_actors[filtre_actors['genres'].str.contains(selected_genre)]
 
-    # Pivoter les données par décennie et acteur
-    #test_2 = pd.pivot_table(filtered_df, values='tconst', index='primaryName', columns='decennie', aggfunc='count')
-    #test_2['Total'] = test_2.sum(axis=1)
-    #test_2 = test_2.sort_values(by='Total', ascending=False).reset_index()
+    #Pivoter les données par décennie et acteur
+    test_2 = pd.pivot_table(filtered_df, values='tconst', index='primaryName', columns='decennie', aggfunc='count')
+    test_2['Total'] = test_2.sum(axis=1)
+    test_2 = test_2.sort_values(by='Total', ascending=False).reset_index()
 
-    #top_10 = test_2.head(10)
+    top_10 = test_2.head(10)
 
  
-    #fig = px.bar(top_10, x='primaryName', y='Total', labels={'primaryName': 'Acteurs', 'Total': 'Nombre de films'},
+    fig = px.bar(top_10, x='primaryName', y='Total', labels={'primaryName': 'Acteurs', 'Total': 'Nombre de films'},
                 #title=f'Top 10 des acteurs de {selected_genre} avec le plus grand nombre de films total', color_discrete_sequence=colors1)
 
-    #fig.update_layout(xaxis_tickangle=-45)
+    fig.update_layout(xaxis_tickangle=-45)
 
-    # Afficher le plot avec Streamlit
-    #st.plotly_chart(fig)
+    #Afficher le plot avec Streamlit
+    st.plotly_chart(fig)
    
-    #st.divider()
+    st.divider()
 
     ##Affichage_Top_10 des reals par genre
     st.markdown(f"<div style='margin-bottom: {vertical_space}px'></div>", unsafe_allow_html=True)
